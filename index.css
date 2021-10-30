@@ -1,0 +1,29 @@
+body {
+  /* background-color: #016f32; */
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial,
+    sans-serif;
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgamerlimit.com%2Fwp-content%2Fuploads%2F2017%2F05%2Fblackjack.jpg&f=1&nofb=1');
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
